@@ -1,6 +1,6 @@
 # Wesley Carvalho
 
-**QA Engineer** com foco em garantia de qualidade de software — testes manuais, automação de API e automação web.
+**Analista de QA** com foco em garantia de qualidade de software — testes manuais, automação de API e automação web.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley%20Carvalho-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-carvalho94/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-WX%20Digital%20Studio-111?style=flat&logo=google-chrome&logoColor=white)](https://www.wxdigitalstudio.com.br)
